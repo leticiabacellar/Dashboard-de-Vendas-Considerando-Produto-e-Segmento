@@ -82,8 +82,6 @@ Entre as principais análises disponíveis estão:
 - 📊 Comparativos entre períodos
 - 🎯 Indicadores estratégicos para apoio à tomada de decisão
 
-> Recomenda-se adicionar capturas de tela das principais páginas na pasta **images/** e referenciá-las neste README.
-
 ---
 
 ## 📈 Objetivos do Dashboard
